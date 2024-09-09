@@ -1,4 +1,4 @@
-I am interested in a conversational interface to an open source, global distributed platform for collective human and digital intelligence. <p>
+I am interested in a conversational interface to an open source, global distributed platform for collective human and digital intelligence.
 This github project is for a demonstration of concept.
 Components could include Open WebUI for the front end, a language model adapted to act as an interface to databases in the middle, and a hybrid vector and graph database such as Neo4J in the back end (https://youtu.be/iLVyEgxGbg4?si=nFMlxR4P4xCXIoXC).
 The platform would have methods to authenticate the identities of users, and to allow users to share parts of conversations anonymously.
