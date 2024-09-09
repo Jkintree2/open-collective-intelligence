@@ -1,6 +1,6 @@
 Perhap the highest priority for humanity now is building an open source and decentralized global platform for collective human and digital intelligence.
 This github project is for a demonstration of concept.
-Components could include Open WebUI for the front end, a language model adapted to act as an interface to databases in the middle, and a hybrid vector and graph database such as Neo4J in the back end (https://youtu.be/iLVyEgxGbg4?si=nFMlxR4P4xCXIoXC).
+Components could include Open WebUI for the front end, a language model adapted to act as an interface to databases in the middle, and a hybrid vector and graph database such as Neo4j in the back end (https://youtu.be/iLVyEgxGbg4?si=nFMlxR4P4xCXIoXC).
 The platform would have methods to authenticate the identities of users, and to allow users to share parts of conversations anonymously.
 The language model would extract entities and relationships from parts of conversations that users select to merge into a shared vector and graph representation.
 Users could merge entities and relationships extracted from other modalities such as pdf format files, video transcripts, images, and SQL databases into the shared graph.
