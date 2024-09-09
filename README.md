@@ -7,6 +7,7 @@ Users could merge entities and relationships extracted from other modalities suc
 The platform would continuously fact check statements merged into the shared graph.
 The platform would report which issues are discussed by the most people, aggregate measures of sentiment expressed on proposed solutions, and show how this sentiment changes over time.
 After the demonstration of concept, the platform could be scaled to merge the knowledge and sentiment expressed in millions of simultaneous conversations with people around the world, becoming a form of global collective intelligence.
+Commissions of $1,000 can be paid to people who help develop an open source demonstration of concept. Contact: jkintree@gmail.com
 <!---
 Jkintree2/Jkintree2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
