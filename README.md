@@ -1,6 +1,6 @@
 I am interested in a conversational interface to an open source, global distributed platform for collective human and digital intelligence. 
 My first github project is for a demonstration of concept of a platform for collective intelligence.
-Components could include Open WebUI for the front end, a language model adapted to act as an interface to databases in the middle, and a hybrid vector and graph database such as Neo4J in the back end.
+Components could include Open WebUI for the front end, a language model adapted to act as an interface to databases in the middle, and a hybrid vector and graph database such as Neo4J in the back end (https://youtu.be/iLVyEgxGbg4?si=nFMlxR4P4xCXIoXC).
 The platform would have methods to authenticate the identities of users, and to allow users to share parts of conversations anonymously.
 The language model would extract entities and relationships from parts of conversations that users select to merge into a shared vector and graph representation.
 Users could merge entities and relationships extracted from other modalities such as pdf format files, video transcrips, images, and tabular databases into the shared graph.
