@@ -1,4 +1,4 @@
-Perhap the highest priority for humanity now is building an open source and decentralized global platform for collective human and digital intelligence.
+Perhap the highest priority for humanity now is building a conversational open source and decentralized global computer platform for collective human and digital intelligence.
 This github project is for a demonstration of concept.
 Components could include Open WebUI for the front end, a language model adapted to act as an interface to databases in the middle, and a hybrid vector and graph database such as Neo4j in the back end (Open WebUI demo at https://youtu.be/iLVyEgxGbg4?si=nFMlxR4P4xCXIoXC).
 The platform would have methods to authenticate the identities of users, and to allow users to share parts of conversations anonymously.
