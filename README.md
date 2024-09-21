@@ -15,13 +15,10 @@ Commissions of $1,000 can be paid to people who help develop this demonstration 
 ### Contact
 John Kintree, jkintree@gmail.com
 ### Resources
-Open WebUI demo at https://youtu.be/iLVyEgxGbg4?si=nFMlxR4P4xCXIoXC
-###
-Implementing GraphReader https://github.com/tomasonjo/blogs/tree/master/graphreader
-###
-Temporal KGs https://github.com/getzep/graphiti
-###
-GRATR https://github.com/EvoNexusX/Graph-Retrieval-Augmented-Trustworthiness-Reasoning
+* Open WebUI demo at https://youtu.be/iLVyEgxGbg4?si=nFMlxR4P4xCXIoXC
+* Implementing GraphReader https://github.com/tomasonjo/blogs/tree/master/graphreader
+* Temporal KGs https://github.com/getzep/graphiti
+* GRATR https://github.com/EvoNexusX/Graph-Retrieval-Augmented-Trustworthiness-Reasoning
 <!---
 Jkintree2/Jkintree2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
