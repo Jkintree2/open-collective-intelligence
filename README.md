@@ -20,6 +20,7 @@ Open WebUI demo at https://youtu.be/iLVyEgxGbg4?si=nFMlxR4P4xCXIoXC
 Implementing GraphReader https://github.com/tomasonjo/blogs/tree/master/graphreader
 ###
 Temporal KGs https://github.com/getzep/graphiti
+###
 GRATR https://github.com/EvoNexusX/Graph-Retrieval-Augmented-Trustworthiness-Reasoning
 <!---
 Jkintree2/Jkintree2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
