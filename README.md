@@ -5,7 +5,7 @@ This github project is for a demonstration of concept.
 Components could include a public facing web server, a language model adapted to act as an interface to databases in the middle, and a vector and graph database such as Neo4j in the back end.
 ### Features
 * The platform would have methods to authenticate the identities of users, and to allow users to share parts of conversations anonymously.
-* The language model would extract entities and relationships from selected parts of public to merge into a shared vector and graph representation.
+* The language model would extract entities and relationships from selected parts of public conversations to merge into a shared vector and graph representation.
 * The platform would continuously fact check statements merged into the shared graph.
 * The platform would report which issues are discussed by the most people, the sentiment expressed on proposed solutions, and show how this sentiment changes over time.
 ### Outcome
