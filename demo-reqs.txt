@@ -1,0 +1,48 @@
+﻿Tomaz Bratanic, a data analyst and author, requested specific requirements in order to refer developers to the project.
+https://github.com/Jkintree2
+
+The general concept is to build a conversational global digital platform for collective intelligence. The platform will merge the knowledge and sentiment expressed in conversations with humans into a shared vector and graph representation. 
+
+The three main components of the demonstration of concept are a web browser as the front end, a language model in the middle, and a database back end. The design will be modular so the demonstration can be done with different components. The web browser should provide complete functionality on a smartphone.
+
+There will be a website with a Sign-in control. The developer, or another tester, will give new testers a password to use with their email address identifier so they can Sign-in. 
+
+Testers will be able to create accounts and assign passwords for other people who would like to be testers. Testers will be able to change their identifier and password at any time. There might not be a Sign-up control that would allow people to create their own accounts during the initial testing period. 
+
+After testers have signed in, there will be a text box into which statements and questions can be submitted to the platform. A physical keyboard, an onscreen keyboard, or a microphone that is activated with an onscreen icon, can be used to input the text.
+
+If testers use the microphone, they will be able to correct mistakes that were made by the speech recognition model before submitting the text. 
+
+The welcome page to the website will make it clear that conversations will be merged into a shared, public structure. The platform is not for private conversations. 
+
+The platform will ask the testers whether the conversations should be merged as anonymous contributions, or if the person's name should be displayed. 
+
+Before the platform merges anything with the shared database, it will display the entities and relationships it has extracted from the text, along with the database language merge statement it generated, so testers can correct mistakes made by the language model first. 
+
+As the language models improve, this preview might be less important for correcting mistakes, and more about learning the database language, for those who are interested in doing so.
+
+Along with testers own statements and questions, testers should be able to provide links to other resources such as pdf format files, Wikipedia articles, and YouTube videos. The platform will merge chunks of text and their vector embeddings, and extracted entities and relationships from those resources into the shared graph.
+
+The platform will perform entity resolution, combining nodes that represent the same entity within the graph, and linking with nodes that represent the same entity in other graphs. 
+
+What schema or ontology will be used in the shared graph? This is an open question. 
+
+The platform will answer queries about which issues are being discussed by the most people, measures of the sentiment expressed towards proposed solutions, and how those measures change over time. The platform will manage and filter queries about issues and proposals based on local, state, national, regional, and global levels. 
+
+The platform should help synthesize and summarize proposals to facilitate convergence towards consensus solutions. 
+
+The platform should continuously calculate weights representing the trustworthiness of statements stored in the graph, grounding those calculations on evidence and reason already stored in the shared graph for which the confidence in trustworthiness is extremely high. 
+
+The graph could be seeded with very high confidence statements. Plants breath in carbon dioxide, and breath out oxygen. Carbon dioxide is a greenhouse gas. Burning fossil organic matter releases carbon dioxide. 
+
+There is a brilliant feature of the Neo4j LLM Knowledge Graph Builder that should be part of the platform. It has an icon below its responses, and that icon can be clicked to display the sources of its information, including: page numbers of pdf documents, chunks of text, and the relevant entities and relationships. 
+
+The platform should store responses that are especially effective in refuting false claims so those responses can be retrieved for use in other similar conversations. That's an example of fast thinking. Slow thinking is when the platform has to process multiple pieces of evidence to generate effective refutations and other responses. The platform should let the testers know when it is processing a query, and unable to retrieve an instantaneous response. 
+
+Some of these requirements might not be fully implemented in the initial demonstration of concept. The demonstration will likely transition into full production incrementally. 
+
+Do we need a Discord channel, or some other way to get group input on this? Once the platform is built, we will be able to use it to talk about issues relating to the platform itself. That's one of the things we'll be testing.
+
+John Kintree
+September 25, 2024
+
