@@ -2,7 +2,7 @@
 Perhap the highest priority for humanity now is to build a conversational open source and decentralized global computer platform for collective human and digital intelligence.
 This github project is for a demonstration of concept.
 ### Components
-Components could include a public facing web server, a language model adapted to act as an interface to databases in the middle, and a vector and graph database such as Neo4j in the back end.
+Components could include a public facing web server, a language model adapted to act as an interface to databases in the middle, and a vector and graph database such as Neo4j in the back end. The Neo4j LLM Knowledge Graph Builder could serve as a starting point for a demonstration of concept.
 ### Features
 * The platform would have methods to authenticate the identities of users, and to allow users to share parts of conversations anonymously.
 * The language model would extract entities and relationships from selected parts of public conversations to merge into a shared vector and graph representation.
@@ -15,6 +15,7 @@ Commissions of $1,000 can be paid to people who help develop this demonstration 
 ### Contact
 John Kintree, jkintree@gmail.com
 ### Resources
+* Neo4j LLM Knowledge Graph Builder https://github.com/neo4j-labs/llm-graph-builder
 * Implementing GraphReader https://github.com/tomasonjo/blogs/tree/master/graphreader
 * Temporal KGs https://github.com/getzep/graphiti
 * GRATR https://github.com/EvoNexusX/Graph-Retrieval-Augmented-Trustworthiness-Reasoning
