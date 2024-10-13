@@ -15,6 +15,7 @@ Commissions of $1,000 can be paid to people who help develop this demonstration 
 ### Contact
 John Kintree, jkintree@gmail.com
 ### Resources
+* LightRAG graph structured https://arxiv.org/abs/2410.05779
 * Neo4j LLM Knowledge Graph Builder https://github.com/neo4j-labs/llm-graph-builder
 * Implementing GraphReader https://github.com/tomasonjo/blogs/tree/master/graphreader
 * Temporal KGs https://github.com/getzep/graphiti
