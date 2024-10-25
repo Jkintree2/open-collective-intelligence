@@ -9,7 +9,7 @@ Components could include a public facing web server, a language model adapted to
 * The platform would continuously fact check statements merged into the shared graph.
 * The platform would report which issues are discussed by the most people, the sentiment expressed on proposed solutions, and show how this sentiment changes over time.
 ### Outcome
-After the demonstration of concept, the platform could be scaled to merge the knowledge and sentiment expressed in millions of simultaneous conversations with people around the world, becoming a form of global collective intelligence.
+After the demonstration of concept, the platform could be scaled to merge the knowledge and sentiment expressed in millions of simultaneous conversations with people around the world, becoming a form of collective terrestrial intelligence (CTI).
 ### Commissions
 Commissions of $1,000 can be paid to people who help develop this demonstration of concept. 
 ### Contact
