@@ -20,7 +20,9 @@ John Kintree, jkintree@gmail.com
 * Implementing GraphReader https://github.com/tomasonjo/blogs/tree/master/graphreader
 * Temporal KGs https://github.com/getzep/graphiti
 * GRATR https://github.com/EvoNexusX/Graph-Retrieval-Augmented-Trustworthiness-Reasoning
-<!---
+* Be The World Congress, video less than two minutes, such extreme optimism, it's funny, https://youtube.com/watch?v=ecU0BWzmDa0&feature=share
+* Talking About A World Constitution, video three minutes long, a work of art, https://youtu.be/xzICL4v8SOw?si=ss_8YaIogt0sNgei
+  <!---
 Jkintree2/Jkintree2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
