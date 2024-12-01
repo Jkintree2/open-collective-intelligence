@@ -17,13 +17,13 @@ John Kintree, jkintree@gmail.com
 ### Resources
 * LightRAG graph structured https://arxiv.org/abs/2410.05779
 * Neo4j LLM Knowledge Graph Builder https://github.com/neo4j-labs/llm-graph-builder
-* Neo4j LLM Knowledge Graph Builder demo https://www.youtube.com/watch?v=LlNy5VmV290&t=188s
+* Neo4j LLM Knowledge Graph Builder demo, 4 minutes, https://www.youtube.com/watch?v=LlNy5VmV290&t=188s
 * Implementing GraphReader https://github.com/tomasonjo/blogs/tree/master/graphreader
 * Temporal KGs https://github.com/getzep/graphiti
 * GRATR https://github.com/EvoNexusX/Graph-Retrieval-Augmented-Trustworthiness-Reasoning
-* Be The World Congress, video less than two minutes, such extreme optimism, it's funny, https://youtube.com/watch?v=ecU0BWzmDa0&feature=share
-* Talking About A World Constitution, video three minutes long, a work of art, https://youtu.be/xzICL4v8SOw?si=ss_8YaIogt0sNgei
-* Interview on collective intelligence, 34 minutes long, https://youtube.com/watch?v=0tCFtsfMFqA&feature=shared
+* Be The World Congress, video less than 2 minutes, such extreme optimism, it's funny, https://youtube.com/watch?v=ecU0BWzmDa0&feature=share
+* Talking About A World Constitution, video 3 minutes, a work of art, https://youtu.be/xzICL4v8SOw?si=ss_8YaIogt0sNgei
+* Interview on collective intelligence, 34 minutes, https://youtube.com/watch?v=0tCFtsfMFqA&feature=shared
 * Third Millennium Thinking, by Saul Perlmutter, John Campbell, and Roert MacCoun, published by Little, Brown Spark, 2024.
   <!---
 Jkintree2/Jkintree2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
