@@ -2,11 +2,11 @@
 Perhap the highest priority for humanity now is to build a conversational open source and decentralized global computer platform for collective human and digital intelligence.
 This github project is for a demonstration of concept.
 ### Components
-Components could include a public facing web server, a language model adapted to act as an interface to databases in the middle, and a vector and graph database such as Neo4j in the back end. The Neo4j LLM Knowledge Graph Builder could serve as a starting point for a demonstration of concept.
+Components could include a website or a phone number at the front end, a language model in the middle to act as an interface to databases, and a vector and graph database such as Neo4j in the back end. The Neo4j LLM Knowledge Graph Builder could serve as a starting point for a demonstration of concept.
 ### Features
 * The platform would have methods to authenticate the identities of users, and to allow users to share parts of conversations anonymously.
-* The language model would extract entities and relationships from selected parts of public conversations to merge into a shared vector and graph representation.
-* The platform would continuously fact check statements merged into the shared graph.
+* The language model would extract knowledge and sentiment from selected parts of public conversations to merge into a shared vector and graph representation.
+* The platform, with humans in the loop, would continuously fact check statements merged into the shared graph.
 * The platform would report which issues are discussed by the most people, the sentiment expressed on proposed solutions, and show how this sentiment changes over time.
 ### Outcome
 After the demonstration of concept, the platform could be scaled to merge the knowledge and sentiment expressed in millions of simultaneous conversations with people around the world, becoming a form of collective terrestrial intelligence (CTI). The platform would be decentralized with as much as possible of the software and shared representation running and stored on personal devices such as smartphones. The prompt.txt file in this project is a draft set of instructions to a language model for constructing a knowledge graph of people, claims, evidence, proposals, and sentiment about proposals.
