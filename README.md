@@ -24,7 +24,7 @@ John Kintree, jkintree@gmail.com
 * Be The World Congress, video less than 2 minutes, such extreme optimism, it's funny, https://youtube.com/watch?v=ecU0BWzmDa0&feature=share
 * Talking About A World Constitution, video 3 minutes, a work of art, https://youtu.be/xzICL4v8SOw?si=ss_8YaIogt0sNgei
 * Interview on collective intelligence, 34 minutes, https://youtube.com/watch?v=0tCFtsfMFqA&feature=shared
-* Third Millennium Thinking, by Saul Perlmutter, John Campbell, and Roert MacCoun, published by Little, Brown Spark, 2024.
+* Third Millennium Thinking, by Saul Perlmutter, John Campbell, and Robert MacCoun, published by Little, Brown Spark, 2024.
   <!---
 Jkintree2/Jkintree2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
