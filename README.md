@@ -1,5 +1,5 @@
 ## Description
-Perhap the highest priority for humanity is to build am open source global platform that can merge the knowledge and sentiment expressed in public conversations with billions of people around the world.
+Perhap the highest priority for humanity is to build an open source global platform that can merge the knowledge and sentiment expressed in public conversations with billions of people around the world.
 This github project is for a demonstration of concept of this collective human and digital intelligence.
 ### Components
 Components could include a website and phone numbers at the front end, a language model in the middle to act as an interface to databases, and a vector and graph database such as Neo4j in the back end. The Neo4j LLM Knowledge Graph Builder, or the Zep Graphiti knowledge graph engine could serve as a starting point for a demonstration of concept.
