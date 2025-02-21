@@ -11,7 +11,7 @@ Components could include a website and phone numbers at the front end, a languag
 ### Outcome
 After the demonstration of concept, the platform could be scaled to merge the knowledge and sentiment expressed in millions of simultaneous conversations with people around the world, becoming a form of collective terrestrial intelligence (CTI). The platform would be decentralized with as much as possible of the software and shared representation running and stored on personal devices such as smartphones. The prompt.txt file in this project is a draft set of instructions to a language model for constructing a knowledge graph of people, claims, evidence, proposals, and sentiment about proposals.
 ### Commissions
-Commissions of $1,000 can be paid to people who help develop this demonstration of concept. 
+A commission of $10,000 can be paid to help develop this demonstration of concept. 
 ### Contact
 John Kintree, jkintree@gmail.com
 ### Resources
