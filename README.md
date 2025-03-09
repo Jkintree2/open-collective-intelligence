@@ -1,5 +1,5 @@
 ## Description
-Perhap the highest priority for humanity is to build an open source global platform that can merge the knowledge and sentiment expressed in public conversations with billions of people around the world.
+Perhap the highest priority for humanity is to build an open source, decentralized, privacy protecting, and fact checking global platform that can merge the knowledge and sentiment expressed in public conversations with billions of people around the world.
 This github project is for a demonstration of concept of this collective human and digital intelligence.
 ### Components
 Components could include a website and phone numbers at the front end, a language model in the middle to act as an interface to databases, and a vector and graph database such as Neo4j in the back end. The Neo4j LLM Knowledge Graph Builder, or the Zep Graphiti knowledge graph engine could serve as a starting point for a demonstration of concept.
@@ -15,6 +15,7 @@ A commission of $10,000 can be paid to help develop this demonstration of concep
 ### Contact
 John Kintree, jkintree@gmail.com
 ### Resources
+* Project Alexandria, to contract a graph of facts extracted from scientific papers, https://arxiv.org/abs/2502.19413
 * LightRAG graph structured https://arxiv.org/abs/2410.05779
 * Neo4j LLM Knowledge Graph Builder https://github.com/neo4j-labs/llm-graph-builder
 * Neo4j LLM Knowledge Graph Builder demo, 4 minutes, https://www.youtube.com/watch?v=LlNy5VmV290&t=188s
