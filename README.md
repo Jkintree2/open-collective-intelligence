@@ -15,7 +15,7 @@ A commission of $10,000 can be paid to help develop this demonstration of concep
 ### Contact
 John Kintree, jkintree@gmail.com
 ### Resources
-* Project Alexandria, to contract a graph of facts extracted from scientific papers, https://arxiv.org/abs/2502.19413
+* Project Alexandria, to construct a graph of facts extracted from scientific papers, https://arxiv.org/abs/2502.19413
 * LightRAG graph structured https://arxiv.org/abs/2410.05779
 * Neo4j LLM Knowledge Graph Builder https://github.com/neo4j-labs/llm-graph-builder
 * Neo4j LLM Knowledge Graph Builder demo, 4 minutes, https://www.youtube.com/watch?v=LlNy5VmV290&t=188s
