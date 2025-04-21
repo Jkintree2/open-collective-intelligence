@@ -1,13 +1,6 @@
 ## Description
-Perhap the highest priority for humanity is to build an open source, decentralized, privacy protecting, and fact checking global platform that can merge the knowledge and sentiment expressed in public conversations with billions of people around the world.
-This github project is for a demonstration of concept of this collective human and digital intelligence.
+Perhap the highest priority for humanity is to build an open source, decentralized, privacy protecting, and fact checking global platform that can merge the knowledge and sentiment expressed in public conversations with billions of people around the world. This github project is for a demonstration of concept of this collective human and digital intelligence.
 
-Maybe the demonstration of concept has already happened. Audrey Tang has implemented innovative uses of digital technologies to amplify the participation of citizens for collective problem solving in Taiwan. 
-
-This is a link to a 37 minutes long presentation by Audrey Tang talking about the power of collective intelligence, and every minute of it has substantive information. 
-https://youtu.be/2OGKzOWplyQ?si=aeJV7ql3JQZKCNoA
-
-Maybe what is needed now is scaling up and scaling out the technologies. The fastest way to include the largest number of people is by phone. That means testing, integrating, and deploying: speech recognition, language translation and processing models, databases, and so on to run as much as possible on smartphones, other personal devices, and local community servers that are networked into a global whole. 
 ### Components
 Components could include a website and phone numbers at the front end, a language model in the middle to act as an interface to databases, and a vector and graph database such as Neo4j in the back end. The Neo4j LLM Knowledge Graph Builder, or the Zep Graphiti knowledge graph engine could serve as a starting point for a demonstration of concept.
 ### Features
@@ -23,6 +16,7 @@ A commission of $10,000 can be paid to help materialize this concept.
 ### Contact
 John Kintree, jkintree@gmail.com
 ### Resources
+* Audrey Tang, 37 minutes video on The Power of Collective Intelligence, https://youtu.be/2OGKzOWplyQ?si=aeJV7ql3JQZKCNoA
 * Knowledge Graph of Thought paper, https://arxiv.org/abs/2504.02670
 * Project Alexandria, to construct a graph of facts extracted from scientific papers, https://arxiv.org/abs/2502.19413
 * LightRAG graph structured https://arxiv.org/abs/2410.05779
