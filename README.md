@@ -19,7 +19,6 @@ John Kintree, jkintree@gmail.com
 * Audrey Tang, 37 minutes video on The Power of Collective Intelligence, https://youtu.be/2OGKzOWplyQ?si=aeJV7ql3JQZKCNoA
 * Knowledge Graph of Thought paper, https://arxiv.org/abs/2504.02670
 * Project Alexandria, to construct a graph of facts extracted from scientific papers, https://arxiv.org/abs/2502.19413
-* LightRAG graph structured https://arxiv.org/abs/2410.05779
 * Neo4j LLM Knowledge Graph Builder https://github.com/neo4j-labs/llm-graph-builder
 * Neo4j LLM Knowledge Graph Builder demo, 4 minutes, https://www.youtube.com/watch?v=LlNy5VmV290&t=188s
 * Zep Graphiti KG of conversations https://github.com/getzep/graphiti
