@@ -2,7 +2,7 @@
 Perhap the highest priority for humanity is to build an open source, decentralized, privacy protecting, and fact checking global platform that can merge the knowledge and sentiment expressed in public conversations with billions of people around the world. This github project is for a demonstration of concept of this collective human and digital intelligence.
 
 ### Components
-Components could include a website and phone numbers at the front end, a language model in the middle to act as an interface to databases, and a vector and graph database such as Neo4j in the back end. The Neo4j LLM Knowledge Graph Builder, or the Zep Graphiti knowledge graph engine could serve as a starting point for a demonstration of concept.
+Components could include a website and phone numbers at the front end, a language model in the middle to act as an interface to databases, and a vector and graph database such as Neo4j in the back end. The Neo4j LLM Knowledge Graph Builder, the Zep Graphiti knowledge graph engine, or the Mem0 memory for conversations could serve as a starting point for a demonstration of concept.
 ### Features
 * The platform would have methods to authenticate the identities of users, and to allow users to share parts of conversations anonymously.
 * The language model would extract knowledge and sentiment from selected parts of public conversations to merge into a shared vector and graph representation.
@@ -16,6 +16,7 @@ A commission of $10,000 can be paid to help materialize this concept.
 ### Contact
 John Kintree, jkintree@gmail.com
 ### Resources
+* Mem0 might be more computationally efficient than Zep Graphiti for storing and retrieving memories from conversations, https://mem0.ai/
 * Audrey Tang, 37 minutes video on The Power of Collective Intelligence, https://youtu.be/2OGKzOWplyQ?si=aeJV7ql3JQZKCNoA
 * Knowledge Graph of Thought paper, https://arxiv.org/abs/2504.02670
 * Project Alexandria, to construct a graph of facts extracted from scientific papers, https://arxiv.org/abs/2502.19413
