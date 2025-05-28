@@ -15,13 +15,13 @@ A commission of $10,000 can be paid to help materialize this concept.
 ### Contact
 John Kintree, jkintree@gmail.com
 ### Resources
+* Zep Graphiti KG of conversations https://github.com/getzep/graphiti
 * Mem0 might be more computationally efficient than Zep Graphiti for storing and retrieving memories from conversations, https://mem0.ai/
+* Neo4j LLM Knowledge Graph Builder https://github.com/neo4j-labs/llm-graph-builder
+* Neo4j LLM Knowledge Graph Builder demo, 4 minutes, https://www.youtube.com/watch?v=LlNy5VmV290&t=188s
 * Audrey Tang, 37 minutes video on The Power of Collective Intelligence, https://youtu.be/2OGKzOWplyQ?si=aeJV7ql3JQZKCNoA
 * Knowledge Graph of Thought paper, https://arxiv.org/abs/2504.02670
 * Project Alexandria, to construct a graph of facts extracted from scientific papers, https://arxiv.org/abs/2502.19413
-* Neo4j LLM Knowledge Graph Builder https://github.com/neo4j-labs/llm-graph-builder
-* Neo4j LLM Knowledge Graph Builder demo, 4 minutes, https://www.youtube.com/watch?v=LlNy5VmV290&t=188s
-* Zep Graphiti KG of conversations https://github.com/getzep/graphiti
 * GRATR https://github.com/EvoNexusX/Graph-Retrieval-Augmented-Trustworthiness-Reasoning
 * Be The World Congress, video less than 2 minutes, such extreme optimism, it's funny, https://youtube.com/watch?v=ecU0BWzmDa0&feature=share
 * Talking About A World Constitution, video 3 minutes, a work of art, https://youtu.be/xzICL4v8SOw?si=ss_8YaIogt0sNgei
