@@ -16,7 +16,7 @@ A commission of $10,000 can be paid to help materialize this concept.
 John Kintree, jkintree@gmail.com
 ### Resources
 * Zep Graphiti KG of conversations https://github.com/getzep/graphiti
-* Mem0 might be more computationally efficient than Zep Graphiti for storing and retrieving memories from conversations, https://mem0.ai/
+* Mem0 might be more computationally efficient than Zep Graphiti for storing and retrieving memories from conversations, https://mem0.ai/ and https://github.com/mem0ai/mem0
 * Neo4j LLM Knowledge Graph Builder https://github.com/neo4j-labs/llm-graph-builder
 * Neo4j LLM Knowledge Graph Builder demo, 4 minutes, https://www.youtube.com/watch?v=LlNy5VmV290&t=188s
 * Audrey Tang, 37 minutes video on The Power of Collective Intelligence, https://youtu.be/2OGKzOWplyQ?si=aeJV7ql3JQZKCNoA
