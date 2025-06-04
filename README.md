@@ -16,7 +16,7 @@ A commission of $10,000 can be paid to help materialize this concept.
 John Kintree, jkintree@gmail.com
 ### Resources
 * People Powered has a ranked list of existing platforms for participatory democracy, https://www.peoplepowered.org/digital-participation
-* Your Priorities is the top rated platform for participatory democracy, https://citizens.is/
+* Your Priorities is the top rated platform in the People Powered list, https://citizens.is/
 * Zep Graphiti KG of conversations, https://github.com/getzep/graphiti
 * Mem0 might be more computationally efficient than Zep Graphiti for storing and retrieving memories from conversations, https://mem0.ai/ and https://github.com/mem0ai/mem0
 * Neo4j LLM Knowledge Graph Builder, https://github.com/neo4j-labs/llm-graph-builder
