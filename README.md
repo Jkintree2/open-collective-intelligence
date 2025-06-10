@@ -15,6 +15,7 @@ A commission of $10,000 can be paid to help materialize this concept.
 ### Contact
 John Kintree, jkintree@gmail.com
 ### Resources
+* The Your Priorities platform for participatory democracy is being used for an Online COP 30 community to prepare for a global referendum on a worldwide carbon tax, https://ypus.org/community/381
 * People Powered has a ranked list of existing platforms for participatory democracy, https://www.peoplepowered.org/digital-participation
 * Your Priorities is the top rated platform in the People Powered list, https://citizens.is/
 * Zep Graphiti KG of conversations, https://github.com/getzep/graphiti
