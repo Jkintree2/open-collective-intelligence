@@ -15,6 +15,7 @@ A commission of $10,000 can be paid to help materialize this concept.
 ### Contact
 John Kintree, jkintree@gmail.com
 ### Resources
+* MAID is a multiplatform app for downloading and running language models from Huggingface on smartphones, https://github.com/Mobile-Artificial-Intelligence/maid
 * The Your Priorities platform for participatory democracy is being used for an Online COP 30 community to prepare for a global referendum on a worldwide carbon tax, https://ypus.org/community/381
 * People Powered has a ranked list of existing platforms for participatory democracy, https://www.peoplepowered.org/digital-participation
 * Zep Graphiti knowledge engine, https://github.com/getzep/graphiti
