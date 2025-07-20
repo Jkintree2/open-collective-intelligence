@@ -16,6 +16,7 @@ A commission of $10,000 can be paid to help materialize this concept.
 John Kintree, jkintree@gmail.com
 ### Resources
 * MAID is a multiplatform app for downloading and running language models from Huggingface on smartphones, https://github.com/Mobile-Artificial-Intelligence/maid
+* Cactus is a project to integrate a language model, text embedding model, and MCP client for smartphones, https://github.com/cactus-compute/cactus
 * The Your Priorities platform for participatory democracy is being used for an Online COP 30 community to prepare for a global referendum on a worldwide carbon tax, https://ypus.org/community/381
 * People Powered has a ranked list of existing platforms for participatory democracy, https://www.peoplepowered.org/digital-participation
 * Zep Graphiti knowledge engine, https://github.com/getzep/graphiti
