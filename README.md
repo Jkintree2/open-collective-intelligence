@@ -15,6 +15,8 @@ A commission of $10,000 can be paid to help materialize this concept.
 ### Contact
 John Kintree, jkintree@gmail.com
 ### Resources
+* Of the seven Maid language models I have tested on my smartphone since July 10, 2025, the model with the most coherent responses, a latency of less than one second, and a conversational speed of at least four words per second, the one I am still using is gemma-3-1b-it-Q5_K_M,
+https://huggingface.co/unsloth/gemma-3-1b-it-GGUF
 * MAID is a multiplatform app for downloading and running language models from Huggingface on smartphones, https://github.com/Mobile-Artificial-Intelligence/maid
 * Cactus is a project to integrate a language model, text embedding model, and MCP client for smartphones, https://github.com/cactus-compute/cactus
 * The Your Priorities platform for participatory democracy is being used for an Online COP 30 community to prepare for a global referendum on a worldwide carbon tax, https://ypus.org/community/381
