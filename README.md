@@ -15,6 +15,7 @@ A commission of $10,000 can be paid to help materialize this concept.
 ### Contact
 John Kintree, jkintree@gmail.com
 ### Resources
+* SmallThinker language models that were trained specifically to run on local computers such as smartphones, https://arxiv.org/abs/2507.20984.
 * AI agents that are programmed with Javascript might run inside web browsers, https://langchain-ai.github.io/langgraphjs/
 * Of the seven Maid language models I have tested on my smartphone since July 10, 2025, the model with the most coherent responses, a latency of less than one second, and a conversational speed of at least four words per second, the one I am still using is gemma-3-1b-it-Q5_K_M,
 https://huggingface.co/unsloth/gemma-3-1b-it-GGUF
