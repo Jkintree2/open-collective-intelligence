@@ -15,6 +15,7 @@ A commission of $10,000 can be paid to help materialize this concept.
 ### Contact
 John Kintree, jkintree@gmail.com
 ### Resources
+* Estonia has traveled uniquely far towards digital democracy, https://e-estonia.com/
 * SmallThinker language models were trained specifically to run on local computers such as smartphones, https://arxiv.org/abs/2507.20984.
 * Cactus is an app at the Google play store for running language models on Android smartphones. CactusAgent is a demo project, https://github.com/cactus-compute/example-react-agents
 * The Your Priorities platform for participatory democracy is being used for an Online COP 30 community to prepare for a global referendum on a worldwide carbon tax, https://ypus.org/community/381
