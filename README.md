@@ -17,6 +17,7 @@ A commission of $10,000 can be paid to help materialize this concept.
 ### Contact
 John Kintree, jkintree@gmail.com
 ### Resources
+* BAML is a markup language to improve knowledge graph construction, https://levelup.gitconnected.com/improving-langchain-knowledge-graph-extraction-with-baml-fuzzy-parsing-a2413b2a4613
 * Estonia has traveled uniquely far towards digital democracy, https://e-estonia.com/
 * SmallThinker language models were trained specifically to run on local computers such as smartphones, https://arxiv.org/abs/2507.20984.
 * Cactus is an app at the Google play store for running language models on Android smartphones. CactusAgent is a demo project, https://github.com/cactus-compute/example-react-agents
