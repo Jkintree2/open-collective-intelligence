@@ -17,6 +17,7 @@ A commission of $10,000 can be paid to help materialize this concept.
 ### Contact
 John Kintree, jkintree@gmail.com
 ### Resources
+* Memori is another project for structured management of memories of conversations, https://github.com/GibsonAI/memori
 * BAML is a markup language to improve knowledge graph construction, https://levelup.gitconnected.com/improving-langchain-knowledge-graph-extraction-with-baml-fuzzy-parsing-a2413b2a4613
 * Estonia has traveled uniquely far towards digital democracy, https://e-estonia.com/
 * SmallThinker language models were trained specifically to run on local computers such as smartphones, https://arxiv.org/abs/2507.20984.
