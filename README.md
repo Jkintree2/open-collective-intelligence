@@ -10,8 +10,10 @@ Running small language models (SLMs) on smartphones can yield a 10x reduction in
 * The platform, with humans in the loop, would continuously fact check statements merged into the shared graph.
 * The platform would report which issues are discussed by the most people, the sentiment expressed on proposed solutions, and show how this sentiment changes over time.
 * The platform would classify, from the local to the global level, the jurisdictions to which the issues relate.
-### Outcome
+### Outcomes
 After the demonstration of concept, the platform could be scaled to merge the knowledge and sentiment expressed in millions of simultaneous conversations with people around the world, becoming a form of collective terrestrial intelligence, CTI. The prompt.txt file in this project is a draft set of instructions to a language model for constructing a knowledge graph of people, claims, evidence, proposals, and sentiment about proposals.
+
+This would enable citizens to vote directly for principles and policies from the local to the global level. 
 ### Commissions
 A commission of $10,000 can be paid to help materialize this concept. 
 ### Contact
