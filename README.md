@@ -5,6 +5,8 @@ Perhap the highest priority for humanity is to build an open source, decentraliz
 Components could include an app, a website, or a phone number at the front end, a language model in the middle, and a vector and graph database such as Neo4j in the back end. A fusion of the Neo4j LLM Knowledge Graph Builder, the Zep Graphiti knowledge graph engine, and the Mem0 memory for conversations could serve as a starting point for a demonstration of concept. 
 
 Running small language models (SLMs) on smartphones can yield a 10x reduction in electricity usage compared with running LLMs in data centers. Making the platform accessible by phones could reach 90% of humanity. 
+
+Multilingual text embedding models could create indexes of topics and proposals discussed in local to global deliberations. There are embedding models that are small enough to run on smartphones. 
 ### Features
 * The language model would extract knowledge and sentiment from selected parts of public conversations to merge into a shared vector and graph representation.
 * The platform, with humans in the loop, would continuously fact check statements merged into the shared graph.
