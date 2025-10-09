@@ -21,7 +21,7 @@ A commission of $10,000 can be paid to help materialize this concept.
 ### Contact
 John Kintree, jkintree@gmail.com
 ### Resources
-* Modular architecture for digital agents, https://autognosi.medium.com/state-of-the-art-graphrag-rust-implementation-with-modular-ai-architecture-8c6baf5312cd
+* Modular GraphRAG with Rust, https://autognosi.medium.com/state-of-the-art-graphrag-rust-implementation-with-modular-ai-architecture-8c6baf5312cd
 * Memori is another project for structured management of memories of conversations, https://github.com/GibsonAI/memori
 * BAML is a markup language to improve knowledge graph construction, https://levelup.gitconnected.com/improving-langchain-knowledge-graph-extraction-with-baml-fuzzy-parsing-a2413b2a4613
 * Estonia has traveled uniquely far towards digital democracy, https://e-estonia.com/
