@@ -27,7 +27,7 @@ John Kintree, jkintree@gmail.com
 * BAML is a markup language to improve knowledge graph construction, https://levelup.gitconnected.com/improving-langchain-knowledge-graph-extraction-with-baml-fuzzy-parsing-a2413b2a4613
 * Estonia has traveled uniquely far towards digital democracy, https://e-estonia.com/
 * SmallThinker language models were trained specifically to run on local computers such as smartphones, https://arxiv.org/abs/2507.20984.
-* Cactus is an app at the Google play store for running language models on Android smartphones. CactusAgent is a demo project, https://github.com/cactus-compute/example-react-agents
+* Cactus is an app at the Google play store for running language models on Android smartphones, https://github.com/cactus-compute/cactus
 * The Your Priorities platform for participatory democracy is being used for an Online COP 30 community to prepare for a global referendum on a worldwide carbon tax, https://ypus.org/community/381
 * People Powered has a ranked list of existing platforms for participatory democracy, https://www.peoplepowered.org/digital-participation
 * Zep Graphiti knowledge engine, https://github.com/getzep/graphiti
