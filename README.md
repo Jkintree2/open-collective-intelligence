@@ -21,6 +21,7 @@ A commission of $10,000 can be paid to help materialize this concept.
 ### Contact
 John Kintree, jkintree@gmail.com
 ### Resources
+* Project Liberty has developed software called Frequency to give users of social networks ownership of their personal data, https://www.projectliberty.io/
 * Dgraph manages very large databases by sharding, https://github.com/dgraph-io/dgraph
 * Another outstanding open source project to integrate LMs with graph databases, https://github.com/TencentCloudADP/youtu-graphrag
 * Modular GraphRAG with Rust, https://autognosi.medium.com/state-of-the-art-graphrag-rust-implementation-with-modular-ai-architecture-8c6baf5312cd
