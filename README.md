@@ -21,11 +21,11 @@ A commission of $10,000 can be paid to help materialize this concept.
 ### Contact
 John Kintree, jkintree@gmail.com
 ### Resources
+* Cognee uses BAML to improve data extraction from unstructured text such as conversations, https://www.cognee.ai/blog/integrations/structured-outputs-with-baml-and-cognee
 * Dgraph manages very large databases by sharding, https://github.com/dgraph-io/dgraph
 * Another outstanding open source project to integrate LMs with graph databases, https://github.com/TencentCloudADP/youtu-graphrag
 * Modular GraphRAG with Rust, https://autognosi.medium.com/state-of-the-art-graphrag-rust-implementation-with-modular-ai-architecture-8c6baf5312cd
 * Memori is another project for structured management of memories of conversations, https://github.com/GibsonAI/memori
-* BAML is a markup language to improve knowledge graph construction, https://levelup.gitconnected.com/improving-langchain-knowledge-graph-extraction-with-baml-fuzzy-parsing-a2413b2a4613
 * Estonia has traveled uniquely far towards digital democracy, https://e-estonia.com/
 * SmallThinker language models were trained specifically to run on local computers such as smartphones, https://arxiv.org/abs/2507.20984.
 * Cactus is an app at the Google play store for running language models on Android smartphones, https://github.com/cactus-compute/cactus
