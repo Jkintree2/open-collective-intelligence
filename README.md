@@ -21,6 +21,8 @@ A commission of $10,000 can be paid to help materialize this concept.
 ### Contact
 John Kintree, jkintree@gmail.com
 ### Resources
+* This paper describes another way to use LMs for knowledge extraction, construction, and retrieval.
+https://arxiv.org/abs/2502.09956
 * Cognee uses BAML to improve data extraction from unstructured text such as conversations, https://www.cognee.ai/blog/integrations/structured-outputs-with-baml-and-cognee
 * Dgraph manages very large databases by sharding, https://github.com/dgraph-io/dgraph
 * Another outstanding open source project to integrate LMs with graph databases, https://github.com/TencentCloudADP/youtu-graphrag
