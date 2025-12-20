@@ -21,7 +21,8 @@ A commission of $10,000 can be paid to help materialize this concept.
 ### Contact
 John Kintree, jkintree@gmail.com
 ### Resources
-* Building GraphOS, https://medium.com/@aiwithakashgoyal/building-agentic-graphos-the-16-layer-architecture-behind-production-ready-knowledge-graphs-9ca632bc74c5
+* OriginTrail DKG Edge Node, https://origintrail.io/products/dkg-edge-node
+* Building Agentic GraphOS, https://medium.com/@aiwithakashgoyal/building-agentic-graphos-the-16-layer-architecture-behind-production-ready-knowledge-graphs-9ca632bc74c5
 * This paper describes another way to use LMs for knowledge extraction, construction, and retrieval.
 https://arxiv.org/abs/2502.09956
 * Cognee uses BAML to improve data extraction from unstructured text such as conversations, https://www.cognee.ai/blog/integrations/structured-outputs-with-baml-and-cognee
