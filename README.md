@@ -2,11 +2,11 @@
 Perhap the highest priority for humanity is to build an open source, decentralized, privacy protecting, and fact checking global platform that can merge the knowledge and sentiment expressed in public conversations with billions of people around the world. This github project is for a demonstration of concept of this collective human and digital intelligence.
 
 ### Components
-Components could include an app, a website, or a phone number at the front end, a language model in the middle, and a vector and graph database such as Neo4j in the back end. A fusion of the Neo4j LLM Knowledge Graph Builder, the Zep Graphiti knowledge graph engine, and the Mem0 memory for conversations could serve as a starting point for a demonstration of concept. 
+Components could include an app, a website, or a phone number at the front end, a language model in the middle, and a vector and graph database such as Neo4j in the back end. A fusion of the Neo4j LLM Knowledge Graph Builder and the Zep Graphiti knowledge graph engine could serve as a starting point for a demonstration of concept. 
 
 Running small language models (SLMs) on smartphones can yield a 10x reduction in electricity usage compared with running LLMs in data centers. Making the platform accessible by phones could reach 90% of humanity. 
 
-Multilingual text embedding models could create indexes of topics and proposals discussed in local to global deliberations. There are embedding models that are small enough to run on smartphones. 
+Multilingual text embedding models could create indexes of problems and proposals discussed in local to global deliberations. There are embedding models that are small enough to run on smartphones. 
 ### Features
 * The language model would extract knowledge and sentiment from selected parts of public conversations to merge into a shared vector and graph representation.
 * The platform, with humans in the loop, would continuously fact check statements merged into the shared graph.
@@ -15,7 +15,7 @@ Multilingual text embedding models could create indexes of topics and proposals 
 ### Outcomes
 After the demonstration of concept, the platform could be scaled to merge the knowledge and sentiment expressed in millions of simultaneous conversations with people around the world, becoming a form of collective terrestrial intelligence, CTI. The prompt.txt file in this project is a draft set of instructions to a language model for constructing a knowledge graph of people, claims, evidence, proposals, and sentiment about proposals.
 
-This would enable citizens to vote directly for principles and policies from the local to the global level. 
+This would enable citizens to deliberate and decide directly on principles and policies from the local to the global level. 
 ### Commissions
 A commission of $10,000 can be paid to help materialize this concept. 
 ### Contact
