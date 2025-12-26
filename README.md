@@ -22,6 +22,8 @@ A commission of $10,000 can be paid to help materialize this concept.
 John Kintree, jkintree@gmail.com
 ### Resources
 * OriginTrail DKG Edge Node, https://origintrail.io/products/dkg-edge-node
+
+* https://docs.origintrail.io/graveyard/everything/dkg-edge-node
 * Building Agentic GraphOS, https://medium.com/@aiwithakashgoyal/building-agentic-graphos-the-16-layer-architecture-behind-production-ready-knowledge-graphs-9ca632bc74c5
 * This paper describes another way to use LMs for knowledge extraction, construction, and retrieval.
 https://arxiv.org/abs/2502.09956
