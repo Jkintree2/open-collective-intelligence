@@ -1,5 +1,5 @@
 ## Description
-Perhap the highest priority for humanity is to build an open source, decentralized, privacy protecting, and fact checking global platform that can merge the knowledge and sentiment expressed in public conversations with billions of people around the world. This github project is for a demonstration of concept of this collective human and digital intelligence.
+Perhap the highest priority for humanity is to build an open source, decentralized, privacy protecting, and fact checking global platform that can merge the knowledge and sentiment expressed in public conversations with billions of people around the world. Would we unite to realize the principles of the Universal Declaration of Human Rights and the Earth Charter? This github project is for a demonstration of concept of collective human and digital intelligence.
 
 ### Components
 Components could include an app, a website, or a phone number at the front end, a language model in the middle, and a vector and graph database such as Neo4j in the back end. A fusion of the Neo4j LLM Knowledge Graph Builder and the Zep Graphiti knowledge graph engine could serve as a starting point for a demonstration of concept. 
