@@ -21,7 +21,7 @@ A commission of $10,000 can be paid to help materialize this concept.
 ### Contact
 John Kintree, jkintree@gmail.com
 ### Resources
-* Asta, scientific evidence research assistant, http://asta.allen.ai/
+* Asta, scientific research assistant, http://asta.allen.ai/
 * Reinforcement learning fine tuning of language models to improve knowledge graph construction, https://arxiv.org/abs/2510.15339
 * OriginTrail DKG Edge Node, https://docs.origintrail.io/graveyard/everything/dkg-edge-node
 * Building Agentic GraphOS, https://medium.com/@aiwithakashgoyal/building-agentic-graphos-the-16-layer-architecture-behind-production-ready-knowledge-graphs-9ca632bc74c5
