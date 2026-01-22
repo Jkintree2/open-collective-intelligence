@@ -21,6 +21,7 @@ A commission of $10,000 can be paid to help materialize this concept.
 ### Contact
 John Kintree, jkintree@gmail.com
 ### Resources
+* Memlayer is a project to integrate LMs with structured memory, https://github.com/divagr18/memlayer
 * Gliner2 schema-directed data extraction, https://github.com/fastino-ai/GLiNER2
 * Asta, scientific research assistant, http://asta.allen.ai/
 * Reinforcement learning fine tuning of language models to improve knowledge graph construction, https://arxiv.org/abs/2510.15339
