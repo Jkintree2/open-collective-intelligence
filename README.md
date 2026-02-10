@@ -21,6 +21,7 @@ A commission of $10,000 can be paid to help materialize this concept.
 ### Contact
 John Kintree, jkintree@gmail.com
 ### Resources
+* Lenny's memory, a Neo4j project to give AI agents memory, https://neo4j.com/blog/developer/meet-lennys-memory-building-context-graphs-for-ai-agents/
 * Memlayer is a project to integrate LMs with structured memory, https://github.com/divagr18/memlayer
 * Gliner2 schema-directed data extraction, https://github.com/fastino-ai/GLiNER2
 * Asta, scientific research assistant, http://asta.allen.ai/
