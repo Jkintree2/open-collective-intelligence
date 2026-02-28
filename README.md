@@ -16,8 +16,6 @@ Multilingual text embedding models could create indexes of problems and proposal
 After the demonstration of concept, the platform could be scaled to merge the knowledge and sentiment expressed in millions of simultaneous conversations with people around the world, becoming a form of collective terrestrial intelligence, CTI. The prompt.txt file in this project is a draft set of instructions to a language model for constructing a knowledge graph of people, claims, evidence, proposals, and sentiment about proposals.
 
 This would enable citizens to deliberate and decide directly on principles and policies from the local to the global level. 
-### Commissions
-A commission of $10,000 can be paid to help materialize this concept. 
 ### Contact
 John Kintree, jkintree@gmail.com
 ### Resources
