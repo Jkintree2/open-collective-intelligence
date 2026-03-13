@@ -19,6 +19,7 @@ This would enable citizens to deliberate and decide directly on principles and p
 ### Contact
 John Kintree, jkintree@gmail.com
 ### Resources
+* Graph-aware embeddings, https://www.cognee.ai/blog/cognee-news/product-announcement-graph-embeddings
 * Lenny's memory, a Neo4j project to give AI agents memory, https://neo4j.com/blog/developer/meet-lennys-memory-building-context-graphs-for-ai-agents/
 * Memlayer is a project to integrate LMs with structured memory, https://github.com/divagr18/memlayer
 * Gliner2 schema-directed data extraction, https://github.com/fastino-ai/GLiNER2
