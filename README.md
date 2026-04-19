@@ -20,7 +20,6 @@ This would enable citizens to deliberate and decide directly on principles and p
 John Kintree, jkintree@gmail.com
 ### Resources
 * Milla Jovovich MemPalace, https://github.com/MemPalace/mempalace?tab=readme-ov-file
-* Andrej Karpathy's LLM Wiki, https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 * ZeroClaw, digital assistant project, https://github.com/zeroclaw-labs/zeroclaw
 * Graph-aware embeddings, https://www.cognee.ai/blog/cognee-news/product-announcement-graph-embeddings
 * Lenny's memory, a Neo4j project to give AI agents memory, https://neo4j.com/blog/developer/meet-lennys-memory-building-context-graphs-for-ai-agents/
