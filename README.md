@@ -19,6 +19,7 @@ This would enable citizens to deliberate and decide directly on principles and p
 ### Contact
 John Kintree, jkintree@gmail.com
 ### Resources
+* GraphQLite, https://github.com/colliery-io/graphqlite
 * Trustworthy data, https://www.indykite.ai/
 * Milla Jovovich MemPalace, https://github.com/MemPalace/mempalace?tab=readme-ov-file
 * ZeroClaw, digital assistant project, https://github.com/zeroclaw-labs/zeroclaw
