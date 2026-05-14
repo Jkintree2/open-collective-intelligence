@@ -24,7 +24,6 @@ John Kintree, jkintree@gmail.com
 * Create context graph project of Neo4j, https://github.com/neo4j-labs/create-context-graph
 * GraphQLite, https://github.com/colliery-io/graphqlite
 * Trustworthy data, https://www.indykite.ai/
-* Milla Jovovich MemPalace, https://github.com/MemPalace/mempalace?tab=readme-ov-file
 * ZeroClaw, digital assistant project, https://github.com/zeroclaw-labs/zeroclaw
 * Graph-aware embeddings, https://www.cognee.ai/blog/cognee-news/product-announcement-graph-embeddings
 * Lenny's memory, a Neo4j project to give AI agents memory, https://neo4j.com/blog/developer/meet-lennys-memory-building-context-graphs-for-ai-agents/
