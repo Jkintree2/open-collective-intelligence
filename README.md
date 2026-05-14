@@ -19,7 +19,7 @@ This would enable citizens to deliberate and decide directly on principles and p
 ### Contact
 John Kintree, jkintree@gmail.com
 ### Resources
-* Create context graph project if Neo4j, https://github.com/neo4j-labs/create-context-graph
+* Create context graph project of Neo4j, https://github.com/neo4j-labs/create-context-graph
 * GraphQLite, https://github.com/colliery-io/graphqlite
 * Trustworthy data, https://www.indykite.ai/
 * Milla Jovovich MemPalace, https://github.com/MemPalace/mempalace?tab=readme-ov-file
