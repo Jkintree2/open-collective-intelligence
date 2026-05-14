@@ -19,6 +19,7 @@ This would enable citizens to deliberate and decide directly on principles and p
 ### Contact
 John Kintree, jkintree@gmail.com
 ### Resources
+* Interplanetary File System, IPFS, https://docs.ipfs.tech/install/ipfs-desktop/#windows
 * Thinking Machines Lab's interaction model handles real-time audio, video, and text, https://www.marktechpost.com/2026/05/13/mira-muratis-thinking-machines-lab-introduces-interaction-models-a-native-multimodal-architecture-for-real-time-human-ai-collaboration/
 * Create context graph project of Neo4j, https://github.com/neo4j-labs/create-context-graph
 * GraphQLite, https://github.com/colliery-io/graphqlite
