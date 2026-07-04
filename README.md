@@ -19,7 +19,7 @@ This would enable citizens to deliberate and decide directly on principles and p
 ### Contact
 John Kintree, jkintree@gmail.com
 ### Resources
-* Feature request for domain of governance in the Neo4j Agent Memory project, https://github.com/neo4j-labs/agent-memory/issues/153
+* Request for domain of governance in the Neo4j Agent Memory project, https://github.com/neo4j-labs/agent-memory/issues/153
 * Brief video on digital democracy by phone, https://youtube.com/shorts/Ajiw2z27EXU?si=EvJTJAPMyyFWo6Ce
 * Interplanetary File System, IPFS, newsletter, https://newsletter.ipfs.tech/archive/u1f333-ipfs-newsletter-mainnet-improvements-web/
 * Thinking Machines Lab's interaction model handles real-time audio, video, and text, https://www.marktechpost.com/2026/05/13/mira-muratis-thinking-machines-lab-introduces-interaction-models-a-native-multimodal-architecture-for-real-time-human-ai-collaboration/
