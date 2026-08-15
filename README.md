@@ -14,9 +14,9 @@ During conversations, language models would identify entities such as people, is
 
 The entities and relationships identified in conversations could be stored in graph databases. Graphs can be visualized as dots connected with lines. The dots are called nodes or vertices, and they represent the entities. The lines connecting the dots are called edges, and they represent the RELATIONSHIPS between the entities. A node-edge-node triplet makes up a statement. 
 
-Rather than generate responses from the parameters that have been pre-trained into the language models, the agentic frameworks would retrieve fact checked information from personal and shared databases. Sequences of numbers, called embeddings, which represent the meaning of statements, could used to retrieve relevant information during conversations. 
+Rather than generate responses from the parameters that have been pre-trained into the language models, the agentic frameworks would retrieve fact checked information from personal and shared databases. Sequences of numbers, called embeddings, which represent the meaning of statements, could used to retrieve relevant information during conversations. Multilingual embeddings should have similar sequences of numbers even when the statements are made in different languages.
 
-Summaries of decisions would be especially meaningful information. Summaries of decisions could be stored both as nodes in graph databases, and as files in the Interplanetary File System, which is designed for the decentralized distributions of information. 
+Summaries of decisions would be especially meaningful information. Summaries of decisions could be stored both as nodes in shared databases, and as files in the Interplanetary File System, which is designed for the decentralized distributions of information. 
 
 Running small language models (SLMs) on smartphones can yield a 10x reduction in electricity usage compared with running LLMs in data centers. Making the platform accessible by landline and basic cell phones could reach 90% of humanity. The resulting collective intelligence should be able to figure out how to reach the remaining 10%.
 ### Features
@@ -25,8 +25,11 @@ Running small language models (SLMs) on smartphones can yield a 10x reduction in
 * The platform would classify, from the local to the global level, the jurisdictions to which the issues relate.
 * The platform would enable citizens of planet Earth to make decisions more directly for principles and policies on issues from the local to the global level.
 ### Contact
-John Kintree, jkintree@gmail.com
+As a retired librarian, I have a passion for the truth and transformative democracy. My reach exceeds my technical grasp.
+* John Kintree, jkintree@gmail.com
 ### Resources
+* Democracy in the Era of Artificial Intelligence, https://arxiv.org/abs/2606.13026
+* Book, Reboot: AI and the Race to Save Democracy, by Beth Simone Noveck, published in June of 2026.
 * Video report on Bowling Green, KY citizen input with Sensemaker digital platform, https://www.pbs.org/newshour/show/how-a-kentucky-community-is-using-ai-to-help-people-find-common-ground
 * One-minute selfie video, Alternative Political Message with Sign Language,
 https://youtube.com/shorts/CFLRUMGsyOs?feature=shared 
