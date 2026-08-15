@@ -1,7 +1,21 @@
 ## Description
-Perhap the highest priority for humanity is to build an open source, decentralized, privacy protecting, and fact checking global platform that can merge the knowledge and sentiment expressed in public conversations with billions of people around the world. Would we unite to realize the principles of the Universal Declaration of Human Rights and the Earth Charter? This github project is for a demonstration of concept of collective human and digital intelligence.
+Perhap the highest priority for humanity is to build an open source, decentralized, privacy protecting, and fact checking global platform for digital democracy, also known as Collective Terrestrial Intelligence, CTI, that can merge the knowledge and sentiment expressed in public conversations with billions of people around the world. Would we unite to realize the principles of the Universal Declaration of Human Rights and the Earth Charter? This github project is for a demonstration of concept of collective human and digital intelligence.
 
-### Components
+### Design
+People would have conversations with language models. The language models could run on personal devices, such as smartphones, as well as at data centers. The language models would integrated with agentic frameworks that would include shared databases and other tools. The agentic frameworks would validate the personhood, and authenticate the identities of the people before beginning conversations. People could select which statements they want to have protected as private, and which statements they want to share and make public. 
+
+During conversations, language models would identify entities such as issues, evidence, and solutions. They would also identify the RELATIONSHIPS between the entities such as:
+People CLAIM issues
+People SUBMIT evidence
+People PROPOSE solutions
+Evidence SUPPORTS or REFUTES issues, solutions, and other evidence
+People APPROVE or OPPOSE solutions
+Assemblies and juries of people DECIDE on issues.
+
+The entities and relationships identified in conversations could be stored in graph databases. Graphs can be visualized as dots connected with lines. The dots are called nodes or vertices, and they represent the entities. The lines connecting the dots are called edges, and they represent the relationships between the entities. A node-edge-node triplet makes up a statement. 
+
+Rather than generate responses from the parameters that have been pre-trained into the language models, the models would retrieve information from databases of statements that have been fact checked. Sequences of numbers, called embeddings, which represent the meaning of statements, can used to retrieve relevant information during conversations. Summaries of decisions could be stored both as nodes in graph databases, and as files in the Interplanetary File System, which is designed for the decentralized distributions of information.
+
 Components could include an app, a website, or a phone number at the front end, a language model in the middle, and a vector and graph database such as Neo4j in the back end. A fusion of the Neo4j LLM Knowledge Graph Builder and the Zep Graphiti knowledge graph engine could serve as a starting point for a demonstration of concept. 
 
 Running small language models (SLMs) on smartphones can yield a 10x reduction in electricity usage compared with running LLMs in data centers. Making the platform accessible by phones could reach 90% of humanity. 
