@@ -8,6 +8,7 @@ During conversations, language models would identify entities such as people, is
 * People CLAIM issues
 * People SUBMIT evidence
 * People PROPOSE solutions
+* Issues PROPOSED solutions 
 * Evidence SUPPORTS or REFUTES issues, solutions, and other evidence
 * People APPROVE or OPPOSE solutions
 * Assemblies and juries of people DECIDE on issues.
