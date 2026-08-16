@@ -17,7 +17,7 @@ The entities and relationships identified in conversations could be stored in gr
 
 Rather than generate responses from the parameters that have been pre-trained into the language models, the agentic frameworks would retrieve fact checked information from personal and shared databases. Sequences of numbers, called embeddings, which represent the meaning of statements, could be used to retrieve relevant information during conversations. Multilingual embeddings should have similar sequences of numbers even when the statements are made in different languages.
 
-Summaries of decisions would be especially meaningful information. Summaries of decisions could be stored both as nodes in shared databases, and as files in the Interplanetary File System, which is designed for the decentralized distribution of information. 
+Summaries of decisions would be especially meaningful information. Summaries of decisions could be stored both as nodes in shared databases, and as files in the Interplanetary File System, IPFS, which is designed for the decentralized distribution of information. 
 
 Running small language models (SLMs) on smartphones can yield a 10x reduction in electricity usage compared with running LLMs in data centers. Making the platform accessible by landline and basic cell phones could reach 90% of humanity. The resulting collective intelligence should be able to figure out how to reach the remaining 10%.
 ### Features
