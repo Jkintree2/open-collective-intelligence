@@ -15,7 +15,7 @@ During conversations, language models would identify entities such as people, is
 
 The entities and relationships identified in conversations could be stored in graph databases. Graphs can be visualized as dots connected with lines. The dots are called nodes or vertices, and they represent the entities. The lines connecting the dots are called edges, and they represent the RELATIONSHIPS between the entities. A node-edge-node triplet makes up a statement. 
 
-Rather than generate responses from the parameters that have been pre-trained into the language models, the agentic frameworks would retrieve fact checked information from personal and shared databases. Sequences of numbers, called embeddings, which represent the meaning of statements, could be used to retrieve relevant information during conversations. Multilingual embeddings should have similar sequences of numbers even when the statements are made in different languages.
+Rather than generate responses from the parameters that have been pre-trained into the language models, the agentic frameworks would retrieve fact checked information from personal and shared databases. Sequences of numbers, called embeddings, which represent the meaning of statements, could be used to retrieve relevant information during conversations. Embeddings output by multilingual language models should have similar sequences of numbers even when the statements are made in different languages.
 
 Summaries of decisions would be especially meaningful information. Summaries of decisions could be stored both as nodes in shared databases, and as files in the Interplanetary File System, IPFS, which is designed for the decentralized distribution of information. 
 
@@ -25,7 +25,7 @@ Running small language models (SLMs) on smartphones can yield a 10x reduction in
 * The platform would allow people to select which statements they wanted to have protected as private, and which statements they wanted to share and make public. Shared statements could be made anonymously. 
 * The platform, with humans in the loop, would continuously fact check statements merged into the shared graph.
 * The platform would report which issues are discussed by the most people, the sentiment expressed on proposed solutions, and show how this sentiment changes over time.
-* The platform would classify the jurisdictions to which the issues relate from the local to the global level.
+* The platform would classify the political jurisdictions, linked with Wikidata, to which the issues relate from the local to the global level.
 * The platform would enable citizens of planet Earth to make decisions more directly for principles and policies instead of voting for personalities and political parties.
 ### Contact
 As a retired librarian, my passion is transformational democracy. I have run several language models on my smartphone, but have not yet integrated them with agentic frameworks. My reach exceeds my grasp.
