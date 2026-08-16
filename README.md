@@ -26,9 +26,9 @@ Running small language models (SLMs) on smartphones can yield a 10x reduction in
 * The platform, with humans in the loop, would continuously fact check statements merged into the shared graph.
 * The platform would report which issues are discussed by the most people, the sentiment expressed on proposed solutions, and show how this sentiment changes over time.
 * The platform would classify the jurisdictions to which the issues relate from the local to the global level.
-* The platform would enable citizens of planet Earth to make decisions more directly for principles and policies instead of personalities and political parties.
+* The platform would enable citizens of planet Earth to make decisions more directly for principles and policies instead of voting for personalities and political parties.
 ### Contact
-As a retired librarian, I have a passion for the truth and transformative democracy. My reach exceeds my technical grasp.
+As a retired librarian, my passion is transformational democracy. I have run several language models on my smartphone, but have not yet integrated them with agentic frameworks. My reach exceeds my grasp.
 * John Kintree, jkintree@gmail.com
 ### Resources
 * Democracy in the Era of Artificial Intelligence, https://arxiv.org/abs/2606.13026
