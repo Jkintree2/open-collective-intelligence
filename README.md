@@ -32,7 +32,7 @@ As a retired librarian, I have a passion for the truth and transformative democr
 * John Kintree, jkintree@gmail.com
 ### Resources
 * Democracy in the Era of Artificial Intelligence, https://arxiv.org/abs/2606.13026
-* Reboot: AI and the Race to Save Democracy, by Beth Simone Noveck, published in June of 2026, at some local libraries and bookstores.
+* Reboot: AI and the Race to Save Democracy, by Beth Simone Noveck, published in June of 2026, at bookstores and some local libraries.
 * Video report on Bowling Green, KY citizen input with Sensemaker digital platform, https://www.pbs.org/newshour/show/how-a-kentucky-community-is-using-ai-to-help-people-find-common-ground
 * One-minute selfie video, Alternative Political Message with Sign Language,
 https://youtube.com/shorts/CFLRUMGsyOs?feature=shared 
