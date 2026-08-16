@@ -1,8 +1,8 @@
 ## Description
-Perhap the highest priority for humanity is to build an open source, decentralized, privacy protecting, and fact checking global platform for digital democracy, also known as Collective Terrestrial Intelligence, CTI, that could merge the knowledge and sentiment expressed in public conversations with billions of people around the world. Would we unite to ratify and realize the principles of the Universal Declaration of Human Rights and the Earth Charter? This github project is for a demonstration of concept of collective human and digital intelligence.
+Perhap the highest priority for humanity is to build an open source, decentralized, privacy protecting, and fact checking global platform for digital democracy, also known as Collective Terrestrial Intelligence, CTI, that could merge the knowledge and sentiment expressed in public conversations with billions of people around the world. We could use the platform to ratify a World Constitution based on the principles of the Universal Declaration of Human Rights and the Earth Charter. 
 
 ### Design
-People would have conversations with language models. The language models could run on personal devices, such as smartphones, as well as at data centers. The language models would be integrated with agentic frameworks that would include shared databases and other tools. The agentic frameworks would validate the personhood and authenticate the identities of the people before beginning conversations. People could select which statements they wanted to have protected as private, and which statements they wanted to share and make public. Shared statements could be made anonymously. 
+People would have conversations with language models. The language models could run on personal devices, such as smartphones, as well as at data centers. The language models would be integrated with agentic frameworks, including shared databases and other tools. 
 
 During conversations, language models would identify entities such as people, issues, evidence, and solutions. They would also identify the RELATIONSHIPS between the entities such as:
 * People CLAIM issues
@@ -20,6 +20,8 @@ Summaries of decisions would be especially meaningful information. Summaries of 
 
 Running small language models (SLMs) on smartphones can yield a 10x reduction in electricity usage compared with running LLMs in data centers. Making the platform accessible by landline and basic cell phones could reach 90% of humanity. The resulting collective intelligence should be able to figure out how to reach the remaining 10%.
 ### Features
+* The platform would validate the personhood, and authenticate the identities of the people before beginning conversations.
+* The platform would allow people to select which statements they wanted to have protected as private, and which statements they wanted to share and make public. Shared statements could be made anonymously. 
 * The platform, with humans in the loop, would continuously fact check statements merged into the shared graph.
 * The platform would report which issues are discussed by the most people, the sentiment expressed on proposed solutions, and show how this sentiment changes over time.
 * The platform would classify, from the local to the global level, the jurisdictions to which the issues relate.
