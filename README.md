@@ -1,5 +1,5 @@
 ## Description
-Perhap the highest priority for humanity is to build an open source, decentralized, privacy protecting, and fact checking global platform for digital democracy, also known as Collective Terrestrial Intelligence, CTI, that could merge the knowledge and sentiment expressed in public conversations with billions of people around the world. We could use the platform to ratify a World Constitution based on the principles of the Universal Declaration of Human Rights and the Earth Charter. 
+Perhap the highest priority for humanity is to build an open source, decentralized, privacy protecting, and fact checking global platform for digital democracy, also known as Collective Terrestrial Intelligence, CTI, that could merge the knowledge and sentiment expressed in conversations with billions of people around the world. We could use the platform to ratify a World Constitution based on the principles of the Universal Declaration of Human Rights and the Earth Charter. 
 
 ### Design
 People would have conversations with language models. The language models could run on personal devices, such as smartphones, as well as at data centers. The language models would be integrated with agentic frameworks, including shared databases and other tools. 
