@@ -23,7 +23,7 @@ Running small language models (SLMs) on smartphones can yield a 10x reduction in
 ### Features
 * The platform would validate the personhood, and authenticate the identities of the people before beginning conversations.
 * The platform would allow people to select which statements they wanted to have protected as private, and which statements they wanted to share and make public. Shared statements could be made anonymously. 
-* The platform, with humans in the loop, would continuously fact check statements merged into the shared graph.
+* The platform, with humans in the loop, would continuously fact check statements merged into shared graphs.
 * The platform would report which issues are discussed by the most people, the sentiment expressed on proposed solutions, and show how this sentiment changes over time.
 * The platform would classify the political jurisdictions, linked with Wikidata, to which the issues relate from the local to the global level.
 * The platform would enable citizens of planet Earth to make decisions more directly for principles and policies instead of voting for personalities and political parties.
