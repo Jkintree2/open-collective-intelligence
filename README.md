@@ -25,14 +25,14 @@ Running small language models (SLMs) on smartphones can yield a 10x reduction in
 * The platform would allow people to select which statements they wanted to have protected as private, and which statements they wanted to share and make public. Shared statements could be made anonymously. 
 * The platform, with humans in the loop, would continuously fact check statements merged into the shared graph.
 * The platform would report which issues are discussed by the most people, the sentiment expressed on proposed solutions, and show how this sentiment changes over time.
-* The platform would classify, from the local to the global level, the jurisdictions to which the issues relate.
-* The platform would enable citizens of planet Earth to make decisions more directly for principles and policies on issues from the local to the global level.
+* The platform would classify the jurisdictions to which the issues relate from the local to the global level.
+* The platform would enable citizens of planet Earth to make decisions more directly for principles and policies instead of personalities and political parties.
 ### Contact
 As a retired librarian, I have a passion for the truth and transformative democracy. My reach exceeds my technical grasp.
 * John Kintree, jkintree@gmail.com
 ### Resources
 * Democracy in the Era of Artificial Intelligence, https://arxiv.org/abs/2606.13026
-* Book, Reboot: AI and the Race to Save Democracy, by Beth Simone Noveck, published in June of 2026.
+* Reboot: AI and the Race to Save Democracy, by Beth Simone Noveck, published in June of 2026, at some local libraries and bookstores.
 * Video report on Bowling Green, KY citizen input with Sensemaker digital platform, https://www.pbs.org/newshour/show/how-a-kentucky-community-is-using-ai-to-help-people-find-common-ground
 * One-minute selfie video, Alternative Political Message with Sign Language,
 https://youtube.com/shorts/CFLRUMGsyOs?feature=shared 
