@@ -21,7 +21,7 @@ Summaries of decisions would be especially meaningful information. Summaries of 
 
 Running small language models (SLMs) on smartphones can yield a 10x reduction in electricity usage compared with running LLMs in data centers. An intermediate level of edge servers, which are more powerful than most personal computers, could be located in schools, libraries, and other public locations to help distribute the processing load. Making the platform accessible by landline and basic cell phones could reach 90% of humanity. The resulting collective intelligence should be able to figure out how to reach the remaining 10%.
 ### Features
-* The platform would validate the personhood, and authenticate the identities of the people before beginning conversations.
+* The platform would validate the personhood, and authenticate the identities of the people at the beginning of conversations.
 * The platform would allow people to select which statements they wanted to have protected as private, and which statements they wanted to share and make public. Shared statements could be made anonymously. 
 * The platform, with humans in the loop, would continuously fact check statements merged into shared graphs.
 * The platform would report which issues are discussed by the most people, the sentiment expressed on proposed solutions, and show how this sentiment changes over time.
