@@ -19,7 +19,7 @@ Rather than generate responses from the parameters that have been pre-trained in
 
 Summaries of decisions would be especially meaningful information. Summaries of decisions could be stored both as nodes in shared databases, and as files in the Interplanetary File System, IPFS, which is designed for the decentralized distribution of information. 
 
-Running small language models (SLMs) on smartphones can yield a 10x reduction in electricity usage compared with running LLMs in data centers. Making the platform accessible by landline and basic cell phones could reach 90% of humanity. The resulting collective intelligence should be able to figure out how to reach the remaining 10%.
+Running small language models (SLMs) on smartphones can yield a 10x reduction in electricity usage compared with running LLMs in data centers. An intermediate level of edge servers, which are more powerful than most personal computers, could be located in schools, libraries, and other public locations to help distribute the processing load. Making the platform accessible by landline and basic cell phones could reach 90% of humanity. The resulting collective intelligence should be able to figure out how to reach the remaining 10%.
 ### Features
 * The platform would validate the personhood, and authenticate the identities of the people before beginning conversations.
 * The platform would allow people to select which statements they wanted to have protected as private, and which statements they wanted to share and make public. Shared statements could be made anonymously. 
